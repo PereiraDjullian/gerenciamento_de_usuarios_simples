@@ -5,7 +5,7 @@ Gerenciamento de Usuários - Spring Boot
 Este é um projeto de gerenciamento de usuários desenvolvido com Spring Boot e Hibernate, utilizando H2 Database como banco de dados em memória. O objetivo é criar, editar, excluir e consultar usuários de forma simples e eficiente.
 
 🚀 Tecnologias utilizadas
-Java 17
+Java 21
 
 Spring Boot 3.4.4
 
